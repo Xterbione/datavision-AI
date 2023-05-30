@@ -10,3 +10,6 @@ classification:
 detectie:
 *  gebruik labelimg voor labeling
 *  houd de structuur aan van het voorbeeld
+
+alle credits gaan naar het computer vision lab van de NHL Stenden te Leeuwarden.
+(repository tijdelijk op public voor review)
